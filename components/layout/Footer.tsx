@@ -11,7 +11,6 @@ export default function Footer() {
           <div className="space-y-6">
             <div className="flex items-center gap-3">
               <div className="bg-white p-1 rounded shadow-sm border border-gray-100 mb-2 mt-2">
-              <div className="bg-white p-1 rounded shadow-sm border border-gray-100 mb-2 mt-2">
                  <img src="/images/ske.png" alt="Logo" className="h-[6rem] md:h-[7.5rem] w-auto object-contain" />
               </div>
             </div>
